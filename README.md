@@ -1,7 +1,7 @@
 # Dice Roller App
 A simple dice roller app built for Android.
 
-#This app demonstrates fundamental Android development concepts including:
+# This app demonstrates fundamental Android development concepts including:
 
 - User interface creation with XML layouts
 - Generating random numbers
